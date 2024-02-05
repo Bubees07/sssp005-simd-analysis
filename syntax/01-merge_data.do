@@ -1,3 +1,7 @@
+// Ben Matthews
+// 2024/05/02
+
+// File to merge SIMD data with LA Lookup data by Council Area
 
 // load the SIMD data
 
