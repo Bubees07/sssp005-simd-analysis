@@ -1,4 +1,6 @@
-
+// If you can fill the unforgiving minute
+// With 60 seconds worth of distant run...
+// Igor, 2024
 // load the cleaned data
 
 use "$datapath/clean_dataset.dta", clear
