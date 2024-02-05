@@ -12,7 +12,7 @@ graph twoway scatter crime health
 
 // regression
 
-cor crime health
+cor crime overall
 
 
 // split by region
