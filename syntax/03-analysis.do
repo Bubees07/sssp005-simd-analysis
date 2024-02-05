@@ -1,10 +1,7 @@
-// set path
-
-global path1 "C:/Users/bm47/OneDrive - University of Stirling/tmp/sssp005/data/"
 
 // load the cleaned data
 
-use "$path1/clean_dataset.dta", clear
+use "$datapath/clean_dataset.dta", clear
 numlabel _all, add
 
 
